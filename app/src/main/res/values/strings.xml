@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hire Me 🎉</string>
+    <string name="filter_button_label">Filter</string>
+    <string name="sortbyalphabet_label">A-Z</string>
+    <string name="sortbytemperature_label">Temperature</string>
+    <string name="sortbylastupdated_label">Last Updated</string>
+    <string name="suburb">SUBURB_DATA</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="details"> Details</string>
+    <string name="lastupdated">Last Updated: </string>
+    <string name="celcius">°</string>
+</resources>
